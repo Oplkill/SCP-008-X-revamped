@@ -1,0 +1,8 @@
+bin/
+obj/
+packages/
+SCP-008-X-revamped/bin/
+SCP-008-X-revamped/obj/
+.idea/
+.vs/
+*.sln.DotSettings.user
